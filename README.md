@@ -3,6 +3,6 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jodyseptiawan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jodyseptiawan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jody-septiawan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jody-septiawan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
